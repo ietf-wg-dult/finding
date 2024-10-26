@@ -15,8 +15,8 @@ venue:
   type: "Working Group"
   mail: "unwanted-trackers@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/unwanted-trackers/"
-  github: "ekr/draft-fossaceca-dult-finding"
-  latest: "https://ekr.github.io/draft-fossaceca-dult-finding/draft-fossaceca-dult-finding.html"
+  github: "ietf-wg-dult/draft-ietf-dult-finding"
+  latest: "https://ietf-wg-dult.github.io/draft-ietf-dult-finding/draft-ietf-dult-finding.html"
 
 author:
  -
