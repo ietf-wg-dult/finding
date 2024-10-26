@@ -5,12 +5,12 @@
 Detecting Unwanted Location Trackers                        C. Fossaceca
 Internet-Draft                                                 Microsoft
 Intended status: Informational                               E. Rescorla
-Expires: 24 March 2025                                       Independent
-                                                       20 September 2024
+Expires: 29 April 2025                                       Independent
+                                                         26 October 2024
 
 
                          Finding Tracking Tags
-                  draft-fossaceca-dult-finding-latest
+                     draft-ietf-dult-finding-latest
 
 Abstract
 
@@ -30,7 +30,7 @@ About This Document
    The latest revision of this draft can be found at
    https://ekr.github.io/draft-fossaceca-dult-finding/draft-fossaceca-
    dult-finding.html.  Status information for this document may be found
-   at https://datatracker.ietf.org/doc/draft-fossaceca-dult-finding/.
+   at https://datatracker.ietf.org/doc/draft-ietf-dult-finding/.
 
    Discussion of this document takes place on the Detecting Unwanted
    Location Trackers Working Group mailing list (mailto:unwanted-
@@ -57,7 +57,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 24 March 2025.
+   This Internet-Draft will expire on 29 April 2025.
 
 Copyright Notice
 
@@ -109,9 +109,7 @@ Table of Contents
 
    DISCLAIMER: This draft is work-in-progress and has not yet seen
    significant (or really any) security analysis.  It should not be used
-   as a basis for building production systems.  This published version
-   of the draft has been designated an "implementation draft" for
-   testing and interop purposes.
+   as a basis for building production systems.
 
    Lightweight location tracking tags are a mechanism by which users can
    track their personal items.  These tags function as a component of a
