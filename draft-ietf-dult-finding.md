@@ -456,8 +456,11 @@ behavior. For instance:
 These issues can be mitigated by concealing the identity and/or
 IP address of network elements communicating with the central
 server using techniques such as Oblivious HTTP {{?RFC9458}} or
-MASQUE {{?RFC9298}}.
+MASQUE {{?RFC9298}}. 
 
+To prevent further access from an outside threat to the central server
+that attempts to obtain correlated information, a data retention period 
+set by the central server can mitigate this issue.
 
 ## Non-compliant Accessories
 
