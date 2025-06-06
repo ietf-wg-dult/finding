@@ -1,6 +1,6 @@
 ---
 title: "Finding Tracking Tags"
-category: info
+category: std
 
 docname: draft-ietf-dult-finding-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
